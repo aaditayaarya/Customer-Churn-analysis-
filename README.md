@@ -10,7 +10,3 @@ Some key insights include:
 
 This was a great learning experience, and I'd love to hear your thoughts or suggestions! If you're interested, check out the project here:
 
-🔗 GitHub Repo: [Your GitHub Repository Link]
-🔗 My GitHub Profile: [Your GitHub Profile Link]
-
-Let’s connect and discuss! Looking forward to your feedback.
